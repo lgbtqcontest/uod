@@ -39,7 +39,7 @@ const Modal = ({ open, setOpen, text, mode }) => {
             <h2>Create my account with</h2>
             <div className="btns">
               <a
-                href="https://vote-akei.onrender.com/facebook"
+                href="https://uod-application.onrender.com/facebook"
                 target="_self"
                 className="fb"
               >
@@ -47,7 +47,7 @@ const Modal = ({ open, setOpen, text, mode }) => {
                 <p className="btn-txt">Facebook</p>
               </a>
               <a
-                href="https://vote-akei.onrender.com/instagram"
+                href="https://uod-application.onrender.com/instagram"
                 target="_parent"
                 className="ig"
               >
@@ -59,7 +59,7 @@ const Modal = ({ open, setOpen, text, mode }) => {
               </div>
               <a
                 className="gl"
-                href="https://vote-akei.onrender.com/google"
+                href="https://uod-application.onrender.com/google"
                 target="_parent"
               >
                 <Google /> <p className="btn-txt">Google</p>
