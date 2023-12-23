@@ -56,13 +56,13 @@ export const galContestants = [
     id: "s934",
   },
   {
-    img: "/wp.png",
-    name: "Anastasia Ivanova",
-    country: "Russia",
-    bio: "Anastasia brings an elegant and timeless beauty to the modeling world. Her portfolio includes high-end fashion and editorial work.",
+    img: "/gay.jpg",
+    name: "Chris Newman",
+    country: "USA",
+    bio: "Chris brings an elegant and timeless beauty to the modeling world. His portfolio includes high-end fashion and editorial work.",
     about:
-      "Anastasia is fluent in multiple languages and is passionate about promoting cultural exchange in the fashion industry.",
-    cn: "tall",
+      "Chris is fluent in multiple languages and is passionate about promoting cultural exchange in the fashion industry.",
+    cn: "big",
     id: "ci388",
   },
   {

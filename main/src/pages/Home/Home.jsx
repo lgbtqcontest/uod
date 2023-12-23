@@ -18,7 +18,6 @@ const Home = () => {
         <div className="shade">
           <div className="sh">
             {eventDets.map((event, key) => {
-              console.log(event);
               const { img, title, text } = event;
               return (
                 <Details
